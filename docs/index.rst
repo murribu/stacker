@@ -21,7 +21,7 @@ both in development, staging and production without any major issues.
 Main Features
 -------------
 
-- Easily `Create/Update <commands.html#build>`_/`Destroy <commands.html#destroy>`_
+- Easily `Create/Update <commands.rst#build>`_/`Destroy <commands.rst#destroy>`_
   many stacks in parallel (though with an understanding of cross-stack
   dependencies)
 - Makes it easy to manage large environments in a single config, while still
